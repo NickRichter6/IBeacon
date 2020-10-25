@@ -7,7 +7,7 @@
 
 import UIKit
 import CoreLocation
-
+//12121212
 class DetailViewController: UIViewController {
     
     var currentBeacon: CLBeacon?
